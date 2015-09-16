@@ -1,0 +1,3 @@
+001-0029c00	T 001-0029c	buddhist/T-taisho/T19/00/T19-0029.png
+001-0030a00	T 001-0030a	buddhist/T-taisho/T19/00/T19-0030.png
+001-0030b00	T 001-0030b	buddhist/T-taisho/T19/00/T19-0030.png
